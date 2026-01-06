@@ -48,6 +48,7 @@
 #include <dirent.h>
 #include <errno.h>
 #include <fcntl.h>
+#include <limits.h>
 #include <linux/limits.h>
 #include <linux/sched.h>
 #include <linux/securebits.h>
